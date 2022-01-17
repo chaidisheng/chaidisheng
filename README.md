@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=chaidisheng&theme=dark)
+<p>
+<img src = "https://github-readme-stats.vercel.app/api?username=chaidisheng&show_icons=true&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chaidisheng&layout=compact&theme=radical">
+</p>
