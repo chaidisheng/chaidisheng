@@ -34,8 +34,8 @@ I can contribute to your project as an individual <b>full-stack developer</b>. A
 Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
 </p> -->
 
-<!-- <h2>🥇 Specialised in:</h2>
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
+<h2>🥇 Specialised in:</h2>
+<!-- <p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
   <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
 <br>🔸 BackEnd - Node, Express, Laravel, RoR
