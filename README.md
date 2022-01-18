@@ -53,8 +53,8 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
-<summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaidisheng&theme=github_dark" alt="chaidisheng" align = "center"/></p>
+<!-- <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaidisheng&theme=github_dark" alt="chaidisheng" align = "center"/></p> -->
 
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaidisheng&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="chaidisheng" align = "center"/>
