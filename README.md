@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    <!-- I'm <a href="">Tony Robin</a>!  -->
@@ -24,11 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Read my blogs on <a href="">chaidisheng</a>
-<!-- <p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chaidisheng&layout=compact&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chaidisheng&show_icons=true&theme=radical">
-</p> -->
+## 🔭 My blogs 
+Read my blogs on <a href="">chaidisheng</a>
+
 
 ## 🧑 About me:
 
@@ -44,11 +41,9 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 </p> -->
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-  <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
+<p>🔸 Qemu-kvm - libvirt, libvirt-python,  
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, RoR
-<br>🔸 AWS and MLOPS
+<br>🔸 BackEnd - Node, Flask, python
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
