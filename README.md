@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My blogs:
-<br>🔸 Read my blogs on <a href="">chaidisheng</a>
+<br>🔸 Read my blogs on <a href="">www.chaidisheng.com</a>
 
 ## 🧑 About me:
 
