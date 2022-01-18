@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 Read my blogs on <a href="">chaidisheng</a>
 <p>
-<img src = "https://github-readme-stats.vercel.app/api?username=chaidisheng&show_icons=true&theme=radical">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chaidisheng&layout=compact&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chaidisheng&layout=compact&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chaidisheng&show_icons=true&theme=radical">
 </p>
