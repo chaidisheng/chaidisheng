@@ -5,7 +5,7 @@
 </h2>
 
 <h4 align='center'>
-  Non-convex optimization | Vue | Flask | Qemu-kvm
+  Non-convex optimization | Vue | Flask | Qemu-Kvm
 </h4>
 
 <!--
@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My blogs 
-Read my blogs on <a href="">chaidisheng</a>
-
+<br>🔸 Read my blogs on <a href="">chaidisheng</a></br>
 
 ## 🧑 About me:
 
@@ -41,7 +40,7 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 </p> -->
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Qemu-kvm - libvirt, libvirt-python,  
+<p>🔸 Qemu-kvm - libvirt, libvirt-python, linux  
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
 <br>🔸 BackEnd - Node, Flask, python
 <p>
