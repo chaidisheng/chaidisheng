@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 My blogs 
-<br>🔸 Read my blogs on <a href="">chaidisheng</a></br>
+## 🔭 My blogs:
+<br>🔸 Read my blogs on <a href="">chaidisheng</a>
 
 ## 🧑 About me:
 
