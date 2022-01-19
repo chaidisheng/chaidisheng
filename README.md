@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>🔸 If the implementation is hard to explain, it's a bad idea.
 <br>🔸 If the implementation is easy to explain, it may be a good idea.
 <br>🔸 Namespaces are one honking great idea 
-<br> let's do more of those!
+<br>✨ let's do more of those!
 
 ## 🧑 About me:
 
