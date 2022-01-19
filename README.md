@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ## 🔭 My blogs:
 <br>🔸 Read my blogs on <a href="">www.chaidisheng.com</a>
-<br>🔸 The Zen of Python, by Tim Peters
+
+## 👋 The Zen of Python, by Tim Peters
 <br>🔸 Beautiful is better than ugly.
 <br>🔸 Explicit is better than implicit.
 <br>🔸 Simple is better than complex.
