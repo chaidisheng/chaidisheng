@@ -5,7 +5,7 @@
 </h2>
 
 <h4 align='center'>
-  Non-Convex Optimization | Vue | Flask | Qemu-Kvm
+  Non-Convex Optimization | Ceph | Rocksdb | Qemu-Kvm
 </h4>
 
 <!--
